@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaaanishaan&label=Profile%20views&color=0e75b6&style=flat" alt="shaaanishaan" /> </p>
 
-- 🔭 I’m currently working on **Mobile Application Developer**
+- 🔭 I’m currently working as **Mobile Application Developer**
 
 - 🌱 I’m currently learning **Cross Platform Application Development.**
 
