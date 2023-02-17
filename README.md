@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cross Platform Application Development.**
 
-- 💬 Ask me about **Product Management Entrepreneur**
+- 💬 Ask me about **Product Development & Management Entrepreneur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
