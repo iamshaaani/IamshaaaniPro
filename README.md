@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Muhammad Zeeshan Ul Haq</h1>
-<h3 align="center">I am Software Engineer and Mobile Application Developer</h3>
+<h3 align="center">I am Business Analyst and Mobile Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaaanishaan&label=Profile%20views&color=0e75b6&style=flat" alt="shaaanishaan" /> </p>
 
