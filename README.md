@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, Muhammad Zeeshan Ul Haq</h1>
-<h3 align="center">I am Business Analyst and Mobile Application Developer</h3>
+<h1 align="center">Hi 👋, Muhammad Zeeshan Ul Haq - Iamshaaani</h1>
+<h3 align="center">I am Business Analyst and Strategist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaaanishaan&label=Profile%20views&color=0e75b6&style=flat" alt="shaaanishaan" /> </p>
 
-- 🔭 I’m currently working as **Mobile Application Developer**
+- 🔭 I’m currently working as **Strategic Business Analyst**
 
-- 🌱 I’m currently learning **Cross Platform Application Development.**
+- 🌱 I’m currently learning **Certified Professional Business Analyst**
 
-- 💬 Ask me about **Product Development & Management Entrepreneur**
+- 💬 Ask me about **Project Management & Business Analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
